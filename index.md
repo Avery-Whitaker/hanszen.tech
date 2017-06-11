@@ -22,7 +22,7 @@ COMP 382 | Avery Whitaker | Moon | Mon 1:00-1:01 AM
 Here is a horizontal rule
 
 <div style="border: 1px solid black">
-<div id="tlkio" data-channel="hanszentech" data-theme="theme--minimal" style="width:100%;height:400px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+<div id="tlkio" data-channel="hanszentech" data-theme="theme--minimal" style="width:100%;height:700px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
 </div>
 
 Here is a blockquote
