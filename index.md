@@ -13,7 +13,7 @@ This website is made by the Computer Science Academic Fellows at Hanszen college
  Who        |Location | Time
 ------------|---------|--------
 nappy    | weenie Loft | all night
-jessy yu   | sundeck | Sat 6-7
+jessy yu   | sundeck 🔥🔥🔥 | Sat 6-7
 Avery Whitaker | new section 151 duh | Mon 1:00-1:01 PM
 
 ### Teaching Assitants 
