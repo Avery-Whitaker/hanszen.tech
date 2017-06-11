@@ -31,24 +31,9 @@ Year | Award | Category
 
 Here is a horizontal rule
 
----
-
-<div id="tlkio" data-channel="hanszentech" data-theme="theme--night" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
-
----
-
-<div id="tlkio" data-channel="hanszentech" data-theme="theme--pop" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
-
----
-
+<div style="border: 2px solid black">
 <div id="tlkio" data-channel="hanszentech" data-theme="theme--minimal" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
-
----
-
-<div id="tlkio" data-channel="hanszentech" data-theme="theme--day" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
-
-
----
+</div>
 
 Here is a blockquote
 
