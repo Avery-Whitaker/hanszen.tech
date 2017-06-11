@@ -2,32 +2,22 @@
 layout: default
 ---
 
-## About M
+# Hanszen Computer Science
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+This website is made by the Computer Science Academic Fellows at Hanszen college. We will be using it to orginzie our office hours. It is meant an academic resource for students in all COMP classes. Non-hanszenites welcome. See the [Hanszen](http://hanszen.rice.edu/resources/academic-fellows.html) website for a list of all Hanszen Fellows.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Office Hours
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Course   | Who        |Location | Time
+---------|------------|---------|--------
+COMP 140 | Jane TA    | Weenie Loft | all day
+COMP 215 | Tian Lan   | Commons | Sat 6-7
+COMP 382 | Avery Whitaker | Moon | Mon 1:00-1:01 AM
 
 Here is a horizontal rule
 
