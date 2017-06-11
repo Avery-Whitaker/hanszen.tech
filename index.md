@@ -7,7 +7,7 @@ layout: default
 This website is made by the Computer Science Academic Fellows at Hanszen college. We will be using it to orginzie our office hours. It is meant an academic resource for students in all COMP classes. Non-hanszenites welcome. See the [Hanszen](http://hanszen.rice.edu/resources/academic-fellows.html) website for a list of all Hanszen Fellows.
 
 
-## Research Interest
+## Markdown is cool
 
 
 
