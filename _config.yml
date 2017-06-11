@@ -1,10 +1,10 @@
-title: Researcher
-url: "http://ankitsultana.com"
-baseurl: "/researcher"
+title: "hanszen.tech"
+url: "http://hanszen.tech"
+baseurl: "hanszen.tech"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-46437251-2
 
 sass:
     style: compressed
