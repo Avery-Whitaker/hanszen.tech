@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## About Me
-
-<img class="profile-picture" src="sherlock.jpg">
+## About M
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
@@ -35,6 +33,10 @@ Here is a horizontal rule
 
 ---
 
+<div id="tlkio" data-channel="hanszentech" data-theme="theme--night" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+
+---
+
 <div id="tlkio" data-channel="hanszentech" data-theme="theme--pop" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
 
 ---
@@ -44,10 +46,6 @@ Here is a horizontal rule
 ---
 
 <div id="tlkio" data-channel="hanszentech" data-theme="theme--day" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
-
----
-
-<div id="tlkio" data-channel="hanszentech" data-theme="theme--night" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
 
 
 ---
