@@ -8,7 +8,7 @@ This website is made by the Computer Science Academic Fellows at Hanszen college
 
 ## Office Hours
 
-###Academic Fellows
+### Academic Fellows
 
  Who        |Location | Time
 ------------|---------|--------
