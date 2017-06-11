@@ -34,6 +34,26 @@ Year | Award | Category
 Here is a horizontal rule
 
 ---
+Chat away
+<iframe src="http://deadsimplechat.com/+eFJ4B" frameborder="0" width="800px" height="600px"></iframe>
+
+---
+
+<div id="tlkio" data-channel="hanszentech" data-theme="theme--minimal" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+
+---
+
+<div id="tlkio" data-channel="hanszentech" data-theme="theme--day" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+
+---
+
+<div id="tlkio" data-channel="hanszentech" data-theme="theme--night" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+
+---
+
+<div id="tlkio" data-channel="hanszentech" data-theme="theme--pop" style="width:100%;height:800px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+
+---
 
 Here is a blockquote
 
