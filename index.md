@@ -21,7 +21,7 @@ avey whit | TBD | TBD
 Course   | Who        |Location | Time
 ---------|------------|---------|--------
 COMP 140 | TBD    | TBD | TBD
-COMP 215 | TBD   | TBD | TBD
+COMP 215 | Frank Chen   | TBD | TBD
 COMP 382 | TBD | TBD | TBD
 COMP TBD | TBD   | TBD | TBD
 COMP TBD | TBD | TBD | TBD
