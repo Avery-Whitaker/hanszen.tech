@@ -12,23 +12,25 @@ This website is made by the Computer Science Academic Fellows at Hanszen college
 
  Who        |Location | Time
 ------------|---------|--------
-nappy napas    | TBD | TBD
-jessy yu   | TBD | TBD
-avey whit | TBD | TBD
+Avery Whitaker    | TBD | TBD
+Jessica Yu   | TBD | TBD
+Tian Udomsak | TBD | TBD
 
 ### Teaching Assitants 
 
 Course   | Who        |Location | Time
 ---------|------------|---------|--------
+COMP 130 | TBD | TBD | TBD
 COMP 140 | TBD    | TBD | TBD
 COMP 215 | Frank Chen   | TBD | TBD
+COMP 215 | Avery Whitaker | TBD | TBD
+COMP 215 | Tian Lan | TBD | TBD
+COMP 330 | Gabe Vacaliuc | TBD | TBD
 COMP 382 | TBD | TBD | TBD
 COMP TBD | TBD   | TBD | TBD
 COMP TBD | TBD | TBD | TBD
 
 ## Live Chat
-
-... Here is a life chat how cool
 
 <div style="border: 1px solid black">
 <div id="tlkio" data-channel="hanszentech" data-theme="theme--minimal" style="width:100%;height:700px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
