@@ -20,15 +20,16 @@ Tian Udomsak | TBD | TBD
 
 Course   | Who        |Location | Time
 ---------|------------|---------|--------
-COMP 130 | TBD | TBD | TBD
-COMP 140 | TBD    | TBD | TBD
+COMP 130 | ??? | TBD | TBD
+COMP 140 | ???    | TBD | TBD
 COMP 160 | Hazel Marshall |  | 
 COMP 215 | Frank Chen   | TBD | TBD
 COMP 215 | Avery Whitaker | TBD | TBD
 COMP 215 | Tian Lan | TBD | TBD
-COMP 310 | TBD | TBD | TBD
+COMP 310 | ??? | TBD | TBD
 COMP 330 | Gabe Vacaliuc | TBD | TBD
-COMP 382 | TBD | TBD | TBD
+COMP 382 | Avery Whitaker | TBD | TBD
+COMP 382 | Tian Udomsak | TBD | TBD
 
 ## Live Chat
 
