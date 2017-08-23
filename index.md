@@ -24,7 +24,7 @@ COMP 130 | ???
 COMP 140 | ??? 
 COMP 160 | Hazel Marshall | | By Appointment 
 COMP 215 | Frank Chen   | TBD | TBD
-COMP 215 | Avery Whitaker | Weenie Loft | Th 1:00-3:30 pm
+COMP 215 | Avery Whitaker | Commons | W 8-9 pm
 COMP 215 | Tian Lan | Commons | W 8-9 pm
 COMP 310 | ??? | TBD | TBD
 COMP 330 | Gabe Vacaliuc | TBD | TBD
