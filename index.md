@@ -22,7 +22,7 @@ Course   | Who        |Location | Time
 ---------|------------|---------|--------
 COMP 130 | ??? 
 COMP 140 | ??? 
-COMP 160 | Hazel Marshall | By Appointment 
+COMP 160 | Hazel Marshall | | By Appointment 
 COMP 215 | Frank Chen   | TBD | TBD
 COMP 215 | Avery Whitaker | Weenie Loft | Th 1-3
 COMP 215 | Tian Lan | TBD | TBD
