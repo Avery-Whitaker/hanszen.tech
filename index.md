@@ -20,19 +20,19 @@ Tian Udomsak | TBD | TBD
 
 Course   | Who        |Location | Time
 ---------|------------|---------|--------
-COMP 130 | ??? | TBD | TBD
-COMP 140 | ???    | TBD | TBD
-COMP 160 | Hazel Marshall |  | 
+COMP 130 | ??? 
+COMP 140 | ??? 
+COMP 160 | Hazel Marshall | By Appointment 
 COMP 215 | Frank Chen   | TBD | TBD
-COMP 215 | Avery Whitaker | TBD | TBD
+COMP 215 | Avery Whitaker | Weenie Loft | Th 1-3
 COMP 215 | Tian Lan | TBD | TBD
 COMP 310 | ??? | TBD | TBD
 COMP 330 | Gabe Vacaliuc | TBD | TBD
 COMP 382 | Avery Whitaker | TBD | TBD
 COMP 382 | Tian Udomsak | TBD | TBD
 
-## Live Chat
+<!--## Live Chat
 
 <div style="border: 1px solid black">
 <div id="tlkio" data-channel="hanszentech" data-theme="theme--minimal" style="width:100%;height:700px;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
-</div>
+</div>-->
