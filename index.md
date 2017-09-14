@@ -12,7 +12,7 @@ This website is made by the Computer Science Academic Fellows at Hanszen college
 
  Who        |Location | Time
 ------------|---------|--------
-Avery Whitaker | Commons | W 8-10
+Avery Whitaker | Commons | W 8-9
 Jessica Yu   | TBD | TBD
 Tian Udomsak | TBD | TBD
 
@@ -22,10 +22,10 @@ Course   | Who        |Location | Time
 ---------|------------|---------|--------
 COMP 130 | Lydia Huang | TBA | TBA 
 COMP 160 | Hazel Marshall | | By Appointment 
-COMP 215 | Frank Chen   | TBD | TBD
+COMP 215 | Frank Chen   | Commons | F 2-3
 COMP 215 | Avery Whitaker | Commons | W 8-9 pm
 COMP 215 | Tian Lan | Commons | W 8-9 pm
 COMP 330 | Gabe Vacaliuc | Hanszen Terrace / Fondren depending on weather | W 7-9 pm
-COMP 382 | Abhijeet Mulgund | Glass Classroom | T 8-9 
-COMP 382 | Avery Whitaker | Glass Classroom | T 9-10
-COMP 382 | Tian Udomsak | Glass Classroom | T 10-11
+COMP 382 | Abhijeet Mulgund | 201 | T 8-9 
+COMP 382 | Avery Whitaker | 201 | T 9-10
+COMP 382 | Tian Udomsak | 201 | T 10-11
