@@ -26,5 +26,5 @@ COMP 215 | Frank Chen   | Commons | F 2-3
 COMP 215 | Avery Whitaker | Commons | W 7-8 pm
 COMP 215 | Tian Lan | Commons | W 7-8 pm
 COMP 330 | Gabe Vacaliuc | Hanszen Terrace / Fondren depending on weather | W 7-9 pm
-COMP 382 | Avery Whitaker | 201 | T 9-10
-COMP 382 | Tian Udomsak | 201 | T 10-11
+COMP 382 | Avery Whitaker | 201 | Tu 9-10
+COMP 382 | Tian Udomsak | 201 | Tu 10-11
