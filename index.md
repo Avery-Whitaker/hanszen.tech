@@ -12,7 +12,7 @@ This website is made by the Computer Science Academic Fellows at Hanszen college
 
  Who        |Location | Time
 ------------|---------|--------
-Avery Whitaker | Commons | W 8-9
+Avery Whitaker | Commons | W 8-9 - NO OH 10/18
 Jessica Yu   | TBD | TBD
 Tian Udomsak | Commons | Su 7-9
 
