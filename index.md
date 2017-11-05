@@ -20,7 +20,6 @@ Tian Udomsak | Commons | Su 7-9
 
 Course   | Who        |Location | Time
 ---------|------------|---------|--------
-COMP 130 | Lydia Huang | TBA | TBA 
 COMP 160 | Hazel Marshall | | By Appointment 
 COMP 215 | Frank Chen   | Commons | F 2-3
 COMP 215 | Avery Whitaker | Commons | W 7-8 pm
